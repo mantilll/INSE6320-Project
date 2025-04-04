@@ -1,0 +1,351 @@
+Product Type,SKU,Price,Availability,Number of Products Sold,Revenue Generated,Stock Levels,Lead Times,Order Quantities,Supplier Name,Location,Production Volumes,Manufacturing Lead Time,Defect Rates
+Electronics,SKU0001,117.19,In Stock,327,25693.83,246,12,44,Supplier E,Vancouver,569,24,2.26
+Food,SKU0002,180.72,In Stock,627,4774.25,666,17,48,Supplier E,Vancouver,1910,48,0.9
+Food,SKU0003,39.36,Stockout,372,37755.6,545,6,159,Supplier C,Vancouver,139,27,1.0
+Furniture,SKU0004,261.93,Stockout,831,24647.36,498,1,434,Supplier E,Montreal,769,36,1.09
+Clothing,SKU0005,38.47,In Stock,391,15192.13,128,5,127,Supplier D,Los Angeles,853,15,1.99
+Food,SKU0006,401.18,In Stock,242,24621.77,671,25,270,Supplier B,Vancouver,845,43,0.35
+Food,SKU0007,120.69,In Stock,786,26169.96,600,28,435,Supplier A,Toronto,679,51,2.05
+Pharmaceuticals,SKU0008,272.31,In Stock,353,28179.31,604,14,96,Supplier C,Vancouver,1934,58,2.61
+Pharmaceuticals,SKU0009,440.64,In Stock,558,22117.06,326,5,474,Supplier E,New York,1248,28,2.47
+Electronics,SKU0010,327.18,In Stock,826,30327.19,752,22,85,Supplier E,Vancouver,125,15,1.98
+Furniture,SKU0011,268.81,Stockout,562,45944.86,834,24,480,Supplier B,Montreal,1686,33,4.21
+Electronics,SKU0012,165.55,In Stock,538,18177.18,979,27,473,Supplier B,Vancouver,975,58,0.81
+Pharmaceuticals,SKU0013,169.84,In Stock,865,36313.25,403,1,460,Supplier C,New York,1736,30,2.58
+Clothing,SKU0014,336.4,In Stock,798,44733.18,628,18,423,Supplier A,Toronto,449,20,0.4
+Pharmaceuticals,SKU0015,497.1,In Stock,828,22853.37,605,16,322,Supplier E,Los Angeles,1855,39,0.45
+Furniture,SKU0016,332.61,In Stock,580,22228.45,674,9,392,Supplier C,Vancouver,1019,24,2.91
+Pharmaceuticals,SKU0017,281.1,In Stock,944,30145.64,610,19,223,Supplier D,New York,1144,50,2.87
+Furniture,SKU0018,366.67,In Stock,192,29611.2,624,22,466,Supplier D,New York,1253,7,4.4
+Furniture,SKU0019,235.28,In Stock,50,40348.81,358,5,294,Supplier C,Toronto,1197,5,2.83
+Furniture,SKU0020,34.77,Stockout,560,23876.52,602,27,248,Supplier E,Montreal,1454,57,4.8
+Furniture,SKU0021,283.34,In Stock,406,49806.54,857,2,174,Supplier C,Vancouver,1366,51,0.34
+Furniture,SKU0022,479.02,In Stock,713,3067.63,717,15,96,Supplier E,New York,846,5,0.58
+Clothing,SKU0023,91.77,In Stock,788,258.08,16,7,150,Supplier B,Toronto,244,21,0.32
+Electronics,SKU0024,346.55,Stockout,503,32045.9,273,4,169,Supplier C,Los Angeles,1984,6,1.01
+Food,SKU0025,104.46,In Stock,668,14991.9,684,1,55,Supplier E,New York,277,33,2.75
+Electronics,SKU0026,270.23,In Stock,916,12095.08,115,13,381,Supplier C,Toronto,1504,24,3.26
+Furniture,SKU0027,52.85,Stockout,342,15663.76,860,20,121,Supplier C,Montreal,1509,10,0.32
+Clothing,SKU0028,227.93,Stockout,136,12876.77,979,22,416,Supplier E,Montreal,1860,12,4.74
+Pharmaceuticals,SKU0029,379.3,In Stock,567,1636.42,692,7,54,Supplier E,New York,510,33,4.23
+Clothing,SKU0030,177.05,Stockout,566,48579.5,90,15,410,Supplier A,New York,667,52,1.55
+Furniture,SKU0031,334.13,In Stock,10,11115.2,81,23,256,Supplier C,Vancouver,1094,55,0.48
+Clothing,SKU0032,398.75,In Stock,177,36728.09,323,14,113,Supplier D,Toronto,113,37,0.93
+Clothing,SKU0033,463.95,In Stock,629,38153.56,960,23,94,Supplier C,New York,214,7,0.72
+Furniture,SKU0034,121.15,In Stock,28,46469.94,113,19,459,Supplier C,Vancouver,76,39,0.7
+Clothing,SKU0035,202.66,In Stock,341,1624.42,768,22,494,Supplier E,Vancouver,1384,9,2.64
+Food,SKU0036,80.45,In Stock,593,43615.21,57,29,143,Supplier C,New York,1061,31,1.3
+Food,SKU0037,496.28,In Stock,465,26408.59,153,24,117,Supplier C,Montreal,334,48,1.85
+Clothing,SKU0038,463.87,In Stock,966,31663.95,876,20,27,Supplier D,Toronto,1733,16,4.95
+Pharmaceuticals,SKU0039,272.28,In Stock,118,32259.07,403,29,103,Supplier E,Toronto,330,24,3.45
+Furniture,SKU0040,421.81,In Stock,277,41007.91,627,24,159,Supplier C,Montreal,887,49,4.75
+Food,SKU0041,262.87,In Stock,454,16737.03,854,18,255,Supplier B,New York,880,24,0.8
+Pharmaceuticals,SKU0042,313.67,In Stock,249,36679.25,265,10,298,Supplier A,Toronto,1237,13,1.97
+Clothing,SKU0043,49.12,In Stock,938,26476.05,314,9,423,Supplier D,New York,1971,43,2.82
+Pharmaceuticals,SKU0044,378.86,In Stock,310,39690.36,714,25,218,Supplier C,New York,967,8,0.48
+Electronics,SKU0045,68.22,Stockout,611,49528.25,40,8,135,Supplier B,Vancouver,273,55,0.12
+Food,SKU0046,413.9,In Stock,112,10112.49,104,26,244,Supplier C,Montreal,833,58,3.39
+Clothing,SKU0047,392.1,In Stock,997,49732.97,900,29,425,Supplier C,New York,1219,23,3.24
+Furniture,SKU0048,355.83,In Stock,259,4581.63,889,10,435,Supplier E,Los Angeles,1014,42,2.11
+Clothing,SKU0049,22.9,In Stock,462,215.65,192,17,471,Supplier E,Montreal,999,31,2.5
+Furniture,SKU0050,155.05,In Stock,529,2303.68,400,2,131,Supplier E,Toronto,1941,49,2.14
+Clothing,SKU0051,135.24,Stockout,162,17154.94,277,6,147,Supplier B,Vancouver,1103,47,0.22
+Pharmaceuticals,SKU0052,183.27,In Stock,868,31682.03,353,26,124,Supplier C,Toronto,94,17,1.74
+Pharmaceuticals,SKU0053,48.38,In Stock,183,3544.57,748,5,429,Supplier A,Toronto,1860,17,0.97
+Pharmaceuticals,SKU0054,468.79,In Stock,352,382.72,936,28,171,Supplier D,Montreal,520,26,0.58
+Electronics,SKU0055,279.13,In Stock,679,46860.84,732,9,210,Supplier E,Toronto,83,32,4.79
+Furniture,SKU0056,156.23,In Stock,440,41114.14,579,5,243,Supplier E,New York,702,56,3.04
+Pharmaceuticals,SKU0057,201.51,In Stock,736,40478.24,708,18,37,Supplier C,Toronto,1500,51,3.67
+Electronics,SKU0058,226.37,In Stock,698,44232.77,255,26,20,Supplier C,Vancouver,879,57,1.65
+Furniture,SKU0059,302.29,In Stock,696,35031.71,650,20,215,Supplier B,Vancouver,1959,49,2.03
+Clothing,SKU0060,260.26,In Stock,861,5309.77,823,9,176,Supplier B,Los Angeles,270,26,1.26
+Electronics,SKU0061,460.1,Stockout,859,20015.1,946,17,256,Supplier E,Vancouver,1941,47,0.58
+Food,SKU0062,251.0,In Stock,667,36185.16,660,27,56,Supplier C,Toronto,583,23,0.98
+Electronics,SKU0063,496.12,In Stock,971,14088.69,98,17,255,Supplier A,Vancouver,741,12,4.01
+Electronics,SKU0064,426.46,In Stock,333,34401.58,587,12,136,Supplier D,Montreal,1440,56,3.42
+Furniture,SKU0065,108.21,In Stock,999,1322.47,281,7,156,Supplier C,Vancouver,981,12,2.78
+Clothing,SKU0066,465.64,Stockout,682,15376.25,882,27,127,Supplier C,New York,890,46,2.43
+Food,SKU0067,62.6,In Stock,648,27501.6,402,3,408,Supplier B,Montreal,1816,30,4.62
+Pharmaceuticals,SKU0068,409.64,In Stock,429,31641.28,108,10,391,Supplier D,Los Angeles,1060,52,0.46
+Pharmaceuticals,SKU0069,193.41,Stockout,603,28894.33,699,2,421,Supplier E,New York,1988,55,1.47
+Electronics,SKU0070,439.6,In Stock,494,34918.04,198,25,161,Supplier C,Toronto,1623,30,1.81
+Furniture,SKU0071,434.69,Stockout,668,403.83,302,3,81,Supplier E,Toronto,631,27,3.93
+Furniture,SKU0072,403.93,In Stock,760,5136.97,326,16,372,Supplier C,Toronto,1189,47,4.96
+Pharmaceuticals,SKU0073,396.07,In Stock,421,43460.32,153,2,146,Supplier E,New York,288,17,1.28
+Food,SKU0074,155.82,In Stock,945,34119.26,551,28,184,Supplier D,New York,1408,32,4.38
+Clothing,SKU0075,45.06,In Stock,93,5735.29,644,24,298,Supplier B,New York,490,13,4.17
+Food,SKU0076,204.48,Stockout,122,42119.51,404,10,455,Supplier D,Montreal,197,24,1.2
+Clothing,SKU0077,90.89,In Stock,746,12187.34,461,6,490,Supplier A,Montreal,1082,23,2.06
+Pharmaceuticals,SKU0078,349.0,In Stock,341,23965.17,131,22,28,Supplier B,Toronto,1361,52,2.11
+Clothing,SKU0079,176.32,In Stock,387,7345.31,790,26,204,Supplier D,Vancouver,437,43,4.89
+Furniture,SKU0080,487.93,In Stock,764,35534.49,873,11,339,Supplier A,Toronto,1123,55,0.99
+Electronics,SKU0081,322.28,In Stock,664,33376.04,83,23,433,Supplier C,Los Angeles,1923,16,4.02
+Electronics,SKU0082,412.13,Stockout,50,10634.51,398,7,184,Supplier C,Montreal,1590,19,1.74
+Pharmaceuticals,SKU0083,70.6,In Stock,944,43183.7,753,27,499,Supplier E,New York,965,35,3.68
+Furniture,SKU0084,431.7,In Stock,779,20125.17,627,29,458,Supplier B,Montreal,1928,59,2.16
+Food,SKU0085,461.76,In Stock,968,14696.5,108,15,422,Supplier C,New York,687,18,2.93
+Furniture,SKU0086,246.1,In Stock,806,7701.25,220,6,443,Supplier B,Los Angeles,1660,15,4.18
+Electronics,SKU0087,305.1,In Stock,114,13381.78,903,20,363,Supplier C,Los Angeles,1750,30,4.04
+Electronics,SKU0088,383.58,In Stock,211,1199.14,552,27,150,Supplier E,Montreal,327,46,4.35
+Furniture,SKU0089,91.55,Stockout,459,29204.55,367,9,255,Supplier D,New York,1909,31,0.39
+Furniture,SKU0090,253.77,In Stock,828,42127.31,146,22,394,Supplier E,Los Angeles,1038,15,3.49
+Electronics,SKU0091,202.34,In Stock,852,27494.12,111,20,427,Supplier A,Toronto,1373,42,0.79
+Food,SKU0092,77.46,In Stock,982,11041.77,614,12,102,Supplier C,Toronto,1875,38,2.14
+Pharmaceuticals,SKU0093,186.93,Stockout,275,1780.09,557,19,441,Supplier A,New York,638,47,2.79
+Pharmaceuticals,SKU0094,38.75,In Stock,919,10809.94,923,20,248,Supplier A,Montreal,1883,23,2.07
+Furniture,SKU0095,17.78,In Stock,219,20864.46,493,3,214,Supplier B,Los Angeles,698,10,2.65
+Pharmaceuticals,SKU0096,71.91,In Stock,572,38004.61,504,15,57,Supplier C,Montreal,667,50,4.98
+Electronics,SKU0097,481.74,In Stock,127,9473.36,474,2,442,Supplier A,Toronto,1680,56,0.76
+Electronics,SKU0098,277.02,In Stock,722,36017.59,835,21,254,Supplier D,Los Angeles,184,42,3.41
+Furniture,SKU0099,483.08,In Stock,386,43359.98,889,2,329,Supplier A,Montreal,629,53,2.04
+Furniture,SKU0100,219.09,In Stock,560,22751.95,270,22,326,Supplier D,Vancouver,1220,46,0.75
+Furniture,SKU0101,159.35,In Stock,549,41089.46,994,3,422,Supplier B,New York,539,32,0.88
+Food,SKU0102,255.54,Stockout,780,27777.4,420,6,304,Supplier A,New York,527,5,4.75
+Pharmaceuticals,SKU0103,222.56,Stockout,93,31890.83,896,15,137,Supplier E,Vancouver,1232,39,4.41
+Furniture,SKU0104,57.3,In Stock,463,26361.3,706,27,353,Supplier B,Toronto,433,44,4.54
+Clothing,SKU0105,322.21,In Stock,676,23212.32,366,10,291,Supplier D,Los Angeles,212,12,4.96
+Clothing,SKU0106,111.94,In Stock,638,11809.21,279,9,26,Supplier B,New York,490,56,1.12
+Electronics,SKU0107,311.7,In Stock,523,15229.38,282,1,80,Supplier A,Vancouver,1926,58,1.84
+Pharmaceuticals,SKU0108,326.85,In Stock,614,14569.51,39,16,278,Supplier C,Vancouver,1262,51,3.38
+Furniture,SKU0109,80.25,In Stock,687,28208.12,958,6,334,Supplier C,Toronto,464,11,2.47
+Clothing,SKU0110,35.37,In Stock,396,6085.69,188,9,291,Supplier D,Toronto,1412,15,2.15
+Pharmaceuticals,SKU0111,391.48,Stockout,921,45847.91,163,27,314,Supplier D,Montreal,1680,43,1.85
+Electronics,SKU0112,232.6,In Stock,359,36060.69,993,4,460,Supplier C,New York,1254,8,3.01
+Food,SKU0113,33.79,In Stock,305,20132.14,988,27,16,Supplier D,Montreal,337,29,2.92
+Pharmaceuticals,SKU0114,497.46,In Stock,267,8015.34,535,28,323,Supplier B,Vancouver,1907,16,0.89
+Pharmaceuticals,SKU0115,33.6,In Stock,90,44111.41,535,2,314,Supplier E,Los Angeles,236,30,2.41
+Food,SKU0116,349.04,In Stock,946,41206.53,3,29,112,Supplier E,Los Angeles,1957,42,2.81
+Pharmaceuticals,SKU0117,491.92,In Stock,277,36113.91,834,4,318,Supplier B,Toronto,1211,50,2.89
+Electronics,SKU0118,123.39,In Stock,428,13650.2,289,1,202,Supplier E,Los Angeles,179,16,1.13
+Electronics,SKU0119,75.41,In Stock,244,20182.09,952,19,250,Supplier A,Los Angeles,243,47,3.74
+Food,SKU0120,65.09,In Stock,842,5227.14,432,26,71,Supplier B,Los Angeles,365,55,0.22
+Furniture,SKU0121,155.12,In Stock,320,9533.07,470,25,26,Supplier D,Vancouver,1858,57,1.84
+Clothing,SKU0122,55.02,Stockout,822,39172.53,180,10,180,Supplier B,Los Angeles,1937,41,3.92
+Furniture,SKU0123,347.62,Stockout,984,35780.43,247,21,34,Supplier C,Los Angeles,193,50,2.86
+Pharmaceuticals,SKU0124,35.83,Stockout,995,29714.94,627,15,260,Supplier D,Los Angeles,65,57,1.38
+Clothing,SKU0125,257.16,In Stock,366,44796.76,278,27,262,Supplier C,Montreal,1375,28,3.51
+Food,SKU0126,498.36,In Stock,222,29205.0,876,22,396,Supplier D,Vancouver,472,20,2.88
+Food,SKU0127,407.92,Stockout,583,23401.7,580,19,216,Supplier E,Toronto,294,17,4.0
+Clothing,SKU0128,309.53,In Stock,58,17084.5,862,16,38,Supplier B,Montreal,976,29,3.7
+Electronics,SKU0129,156.6,In Stock,136,47028.38,253,21,126,Supplier A,New York,1180,58,3.09
+Clothing,SKU0130,313.83,In Stock,232,4227.5,180,27,425,Supplier D,Vancouver,1161,58,2.49
+Pharmaceuticals,SKU0131,265.89,In Stock,930,46551.28,829,24,291,Supplier D,Vancouver,178,56,0.75
+Electronics,SKU0132,215.91,Stockout,288,41353.06,680,22,389,Supplier C,New York,956,58,1.38
+Food,SKU0133,69.7,In Stock,417,6583.5,824,4,153,Supplier E,New York,936,8,2.15
+Clothing,SKU0134,443.87,In Stock,514,28292.72,508,2,34,Supplier C,New York,390,15,3.04
+Furniture,SKU0135,227.64,In Stock,303,43340.74,760,25,319,Supplier C,Toronto,53,36,2.62
+Furniture,SKU0136,101.34,In Stock,805,28633.28,699,13,165,Supplier E,Los Angeles,1400,53,1.51
+Pharmaceuticals,SKU0137,187.04,Stockout,286,45369.27,565,28,82,Supplier A,Vancouver,1483,11,0.13
+Furniture,SKU0138,209.99,In Stock,447,47154.89,325,1,129,Supplier C,Los Angeles,1952,50,2.53
+Clothing,SKU0139,414.63,In Stock,116,21176.99,356,17,321,Supplier C,Los Angeles,355,15,1.5
+Clothing,SKU0140,368.14,Stockout,667,18927.95,824,13,330,Supplier D,New York,957,32,3.7
+Furniture,SKU0141,385.81,In Stock,429,46822.43,649,4,102,Supplier E,Toronto,656,58,0.22
+Clothing,SKU0142,10.46,In Stock,620,33789.49,679,7,95,Supplier B,Montreal,1794,45,2.97
+Pharmaceuticals,SKU0143,211.0,In Stock,438,5889.53,390,17,345,Supplier A,Toronto,1298,27,4.71
+Electronics,SKU0144,243.27,In Stock,384,2210.36,614,9,434,Supplier A,Los Angeles,1421,49,0.95
+Pharmaceuticals,SKU0145,14.5,In Stock,82,28274.99,933,4,373,Supplier E,Toronto,1041,27,2.41
+Pharmaceuticals,SKU0146,133.61,In Stock,958,46515.53,84,19,444,Supplier D,New York,370,54,0.55
+Clothing,SKU0147,381.34,In Stock,643,42228.01,316,1,127,Supplier D,Montreal,608,32,3.17
+Electronics,SKU0148,72.87,In Stock,39,33824.8,211,10,242,Supplier E,New York,1254,47,2.8
+Clothing,SKU0149,269.98,Stockout,197,7041.88,514,4,208,Supplier D,Montreal,667,51,2.1
+Food,SKU0150,111.52,In Stock,373,12786.15,383,9,215,Supplier A,Los Angeles,760,30,2.65
+Clothing,SKU0151,11.0,In Stock,875,43788.01,690,13,422,Supplier A,Montreal,1459,29,4.49
+Clothing,SKU0152,124.39,In Stock,809,9222.08,341,14,348,Supplier B,Montreal,1691,58,1.06
+Clothing,SKU0153,488.06,In Stock,460,13994.13,814,10,156,Supplier E,Montreal,1865,33,0.21
+Electronics,SKU0154,401.76,In Stock,204,6567.07,963,6,459,Supplier C,Toronto,1845,23,4.32
+Clothing,SKU0155,479.99,Stockout,165,33837.8,987,16,434,Supplier C,Toronto,1181,37,2.93
+Electronics,SKU0156,246.49,Stockout,181,47204.72,843,6,438,Supplier B,Los Angeles,580,40,4.46
+Furniture,SKU0157,59.32,In Stock,856,13521.5,37,17,280,Supplier B,Montreal,459,18,3.03
+Food,SKU0158,276.24,Stockout,50,23822.79,510,10,396,Supplier D,Vancouver,1369,18,4.07
+Electronics,SKU0159,229.92,In Stock,72,31753.55,419,18,148,Supplier B,Los Angeles,867,39,2.21
+Furniture,SKU0160,422.96,In Stock,32,49973.37,750,27,190,Supplier B,Montreal,1244,34,3.77
+Electronics,SKU0161,53.55,In Stock,369,5329.92,168,22,439,Supplier C,Montreal,1404,32,4.57
+Electronics,SKU0162,246.68,Stockout,84,24978.68,964,18,39,Supplier D,Toronto,542,21,2.9
+Food,SKU0163,79.27,In Stock,569,19317.49,908,3,66,Supplier B,Los Angeles,1268,7,0.99
+Pharmaceuticals,SKU0164,165.71,In Stock,681,43304.43,342,20,241,Supplier B,Montreal,61,20,1.42
+Pharmaceuticals,SKU0165,369.99,In Stock,834,23850.79,825,27,155,Supplier D,Montreal,244,50,1.07
+Electronics,SKU0166,240.63,In Stock,127,5637.78,305,21,444,Supplier E,Los Angeles,539,34,1.31
+Clothing,SKU0167,191.06,In Stock,621,31757.76,541,25,393,Supplier D,Vancouver,844,56,1.6
+Furniture,SKU0168,200.27,Stockout,389,38561.95,701,28,57,Supplier C,Los Angeles,930,33,2.82
+Clothing,SKU0169,232.43,Stockout,938,243.77,868,15,203,Supplier E,Los Angeles,231,49,2.98
+Clothing,SKU0170,393.58,In Stock,929,42961.94,536,15,233,Supplier A,Vancouver,1011,19,2.19
+Electronics,SKU0171,446.58,Stockout,688,9382.55,111,4,145,Supplier D,Los Angeles,1890,50,3.12
+Electronics,SKU0172,477.89,In Stock,299,27648.26,410,29,31,Supplier C,Montreal,705,29,0.5
+Electronics,SKU0173,394.52,Stockout,449,20848.3,946,27,15,Supplier E,Los Angeles,1971,55,0.53
+Electronics,SKU0174,161.13,In Stock,677,36010.73,205,9,213,Supplier D,Vancouver,1389,42,0.94
+Pharmaceuticals,SKU0175,345.63,In Stock,942,18620.96,184,27,248,Supplier B,New York,743,46,2.64
+Electronics,SKU0176,221.61,In Stock,16,43501.18,381,26,194,Supplier D,Los Angeles,79,51,1.15
+Pharmaceuticals,SKU0177,131.06,Stockout,205,36551.77,495,19,369,Supplier A,Toronto,1669,57,1.49
+Pharmaceuticals,SKU0178,421.23,In Stock,430,32420.89,378,24,301,Supplier D,Montreal,1751,58,2.06
+Electronics,SKU0179,24.02,In Stock,577,39832.41,46,28,344,Supplier E,Montreal,1869,56,4.08
+Food,SKU0180,451.37,In Stock,842,37725.75,885,17,229,Supplier E,Toronto,1866,42,0.17
+Furniture,SKU0181,233.43,In Stock,202,1893.34,739,11,125,Supplier D,Toronto,1169,27,3.28
+Clothing,SKU0182,320.41,In Stock,568,19797.24,550,25,322,Supplier E,Los Angeles,1454,29,3.38
+Pharmaceuticals,SKU0183,331.38,In Stock,157,46547.28,527,9,58,Supplier B,Toronto,827,46,4.01
+Furniture,SKU0184,448.08,Stockout,796,6373.64,503,10,182,Supplier D,New York,493,11,4.67
+Food,SKU0185,320.15,In Stock,678,36881.12,21,18,91,Supplier B,Vancouver,347,26,0.2
+Clothing,SKU0186,308.9,In Stock,211,48732.13,212,20,331,Supplier B,Toronto,857,21,0.85
+Clothing,SKU0187,37.99,In Stock,453,2704.71,309,13,342,Supplier C,Toronto,1810,22,4.44
+Pharmaceuticals,SKU0188,261.61,Stockout,923,34141.47,660,8,54,Supplier D,New York,894,53,2.35
+Electronics,SKU0189,79.33,Stockout,997,23460.89,967,7,344,Supplier E,Montreal,1065,45,2.87
+Food,SKU0190,370.03,In Stock,428,29000.85,752,17,29,Supplier B,Montreal,1434,14,3.35
+Pharmaceuticals,SKU0191,258.55,In Stock,436,4358.53,271,21,457,Supplier C,Los Angeles,1447,14,3.43
+Food,SKU0192,341.71,In Stock,488,2246.05,570,23,230,Supplier D,New York,603,11,4.67
+Electronics,SKU0193,25.63,In Stock,484,33376.65,798,15,132,Supplier D,Vancouver,352,52,4.99
+Electronics,SKU0194,46.97,Stockout,135,41183.14,937,20,243,Supplier A,Vancouver,470,54,3.63
+Pharmaceuticals,SKU0195,359.58,In Stock,404,39122.57,201,15,230,Supplier A,New York,1319,42,1.51
+Electronics,SKU0196,40.68,In Stock,826,27235.91,31,1,332,Supplier B,Vancouver,1793,31,4.41
+Furniture,SKU0197,40.27,In Stock,890,5083.35,442,25,348,Supplier A,Montreal,1310,56,0.34
+Clothing,SKU0198,10.99,Stockout,815,34433.42,161,14,12,Supplier B,Vancouver,1607,37,1.23
+Pharmaceuticals,SKU0199,478.47,In Stock,585,12170.26,766,5,191,Supplier E,Vancouver,234,5,4.5
+Food,SKU0200,370.07,In Stock,334,45562.33,253,11,215,Supplier B,New York,517,48,1.36
+Furniture,SKU0201,179.86,In Stock,401,41929.44,520,16,329,Supplier A,New York,803,57,1.18
+Pharmaceuticals,SKU0202,151.79,Stockout,939,35498.21,976,2,49,Supplier E,Vancouver,412,38,0.78
+Electronics,SKU0203,178.1,In Stock,697,47447.41,650,8,68,Supplier A,Toronto,1356,8,4.31
+Electronics,SKU0204,388.45,In Stock,637,1667.95,479,11,448,Supplier B,New York,1626,21,2.55
+Electronics,SKU0205,332.38,In Stock,449,36836.4,9,29,71,Supplier C,Los Angeles,385,8,3.41
+Electronics,SKU0206,96.67,In Stock,213,16579.11,725,18,141,Supplier D,Los Angeles,211,47,1.27
+Food,SKU0207,91.18,In Stock,495,45312.69,504,3,69,Supplier A,Montreal,1233,58,3.81
+Furniture,SKU0208,53.71,In Stock,842,13407.09,784,26,381,Supplier B,Vancouver,1547,30,3.82
+Clothing,SKU0209,331.85,In Stock,40,36270.34,835,1,340,Supplier E,Toronto,1674,8,1.63
+Food,SKU0210,383.36,In Stock,397,43894.59,559,11,131,Supplier A,Montreal,1395,5,2.11
+Food,SKU0211,136.2,In Stock,634,2178.68,435,16,488,Supplier A,Vancouver,61,11,1.13
+Clothing,SKU0212,15.37,Stockout,886,19942.61,110,18,116,Supplier D,New York,1497,34,4.89
+Clothing,SKU0213,45.67,In Stock,443,38139.22,152,16,105,Supplier B,Los Angeles,1146,54,3.26
+Electronics,SKU0214,484.09,Stockout,846,22800.45,634,23,356,Supplier C,Toronto,637,13,4.68
+Food,SKU0215,151.25,In Stock,935,13435.91,916,10,423,Supplier E,Los Angeles,1931,39,1.59
+Pharmaceuticals,SKU0216,385.77,In Stock,385,11068.29,868,18,244,Supplier B,New York,250,12,3.93
+Clothing,SKU0217,314.21,In Stock,353,6662.76,101,6,395,Supplier E,Vancouver,571,28,3.85
+Clothing,SKU0218,194.06,In Stock,452,42870.77,752,19,71,Supplier A,New York,1937,23,3.49
+Furniture,SKU0219,106.82,In Stock,588,28810.23,832,4,265,Supplier D,New York,554,40,4.83
+Pharmaceuticals,SKU0220,65.09,In Stock,84,3911.61,190,27,58,Supplier D,Los Angeles,1811,54,2.03
+Pharmaceuticals,SKU0221,309.43,In Stock,566,19190.76,728,13,402,Supplier C,Toronto,1761,56,0.74
+Clothing,SKU0222,388.44,Stockout,781,18449.91,562,24,357,Supplier D,New York,837,47,3.39
+Electronics,SKU0223,323.73,In Stock,675,9168.79,803,14,168,Supplier A,Los Angeles,1112,31,3.67
+Furniture,SKU0224,267.5,Stockout,164,21831.83,80,3,133,Supplier C,Toronto,109,36,2.92
+Pharmaceuticals,SKU0225,25.77,In Stock,439,16671.76,488,10,491,Supplier B,Vancouver,627,18,1.11
+Clothing,SKU0226,484.4,In Stock,372,17156.0,894,6,326,Supplier D,Vancouver,370,22,2.57
+Pharmaceuticals,SKU0227,400.36,In Stock,457,36977.43,87,1,216,Supplier C,Montreal,1508,32,1.63
+Furniture,SKU0228,149.95,In Stock,996,11240.84,193,23,57,Supplier A,Los Angeles,1709,33,2.19
+Furniture,SKU0229,490.09,In Stock,243,32128.81,103,24,418,Supplier E,Toronto,1749,20,3.26
+Food,SKU0230,302.93,In Stock,572,28575.42,782,27,429,Supplier E,New York,1481,39,3.75
+Clothing,SKU0231,293.3,In Stock,827,28447.82,95,14,145,Supplier A,Vancouver,972,51,1.24
+Furniture,SKU0232,375.3,In Stock,271,33184.07,422,8,210,Supplier A,Toronto,1459,35,2.09
+Food,SKU0233,406.83,In Stock,836,27464.26,890,19,259,Supplier E,Los Angeles,1744,8,1.42
+Food,SKU0234,329.96,Stockout,134,43974.83,197,14,323,Supplier C,Montreal,618,41,1.07
+Pharmaceuticals,SKU0235,68.41,Stockout,920,33811.45,0,10,366,Supplier E,Vancouver,1151,21,3.94
+Pharmaceuticals,SKU0236,172.44,In Stock,254,27393.47,406,17,377,Supplier A,Toronto,1267,43,4.56
+Food,SKU0237,464.4,In Stock,551,41505.18,377,9,438,Supplier D,Toronto,1358,52,1.91
+Pharmaceuticals,SKU0238,116.18,In Stock,947,30346.71,166,29,327,Supplier B,Toronto,576,50,3.78
+Furniture,SKU0239,189.22,In Stock,494,14628.1,508,6,304,Supplier D,Los Angeles,573,30,4.5
+Electronics,SKU0240,218.88,Stockout,131,10434.04,637,11,489,Supplier D,Los Angeles,662,52,4.25
+Furniture,SKU0241,222.51,In Stock,134,7701.16,312,25,323,Supplier A,Los Angeles,1229,43,1.0
+Food,SKU0242,308.41,In Stock,558,44982.82,592,7,218,Supplier E,New York,1413,45,4.79
+Food,SKU0243,471.82,In Stock,179,35535.76,417,17,364,Supplier C,Toronto,174,8,1.95
+Furniture,SKU0244,124.14,In Stock,133,46875.18,762,28,494,Supplier D,Vancouver,920,34,1.76
+Pharmaceuticals,SKU0245,65.14,In Stock,878,30204.26,680,28,220,Supplier E,Los Angeles,329,34,0.41
+Pharmaceuticals,SKU0246,102.75,Stockout,44,23722.7,476,1,201,Supplier C,Los Angeles,966,26,2.48
+Food,SKU0247,444.03,In Stock,96,3079.85,72,22,53,Supplier D,Toronto,1979,15,0.63
+Clothing,SKU0248,324.68,In Stock,655,33614.95,140,5,38,Supplier C,Los Angeles,671,6,1.32
+Pharmaceuticals,SKU0249,146.52,Stockout,717,29152.22,581,9,68,Supplier E,New York,895,48,1.65
+Furniture,SKU0250,408.89,In Stock,795,49511.42,261,18,80,Supplier B,New York,1942,16,4.06
+Pharmaceuticals,SKU0251,431.38,In Stock,210,12034.02,339,24,101,Supplier E,Los Angeles,1731,34,4.39
+Furniture,SKU0252,424.02,In Stock,378,26583.79,307,27,274,Supplier A,Toronto,1801,40,1.58
+Food,SKU0253,459.87,In Stock,806,32582.77,244,21,392,Supplier C,Toronto,1983,22,4.31
+Pharmaceuticals,SKU0254,129.86,Stockout,86,32265.1,514,2,229,Supplier B,Toronto,723,30,4.3
+Furniture,SKU0255,378.75,In Stock,68,28108.55,336,29,399,Supplier C,Montreal,1201,57,3.85
+Food,SKU0256,232.97,Stockout,440,38868.71,574,26,422,Supplier C,Los Angeles,363,11,0.82
+Clothing,SKU0257,421.79,In Stock,647,10328.56,560,11,451,Supplier D,Toronto,381,5,3.48
+Furniture,SKU0258,365.6,Stockout,509,36308.8,75,27,410,Supplier A,New York,1223,30,4.73
+Clothing,SKU0259,389.34,In Stock,922,31024.76,879,28,409,Supplier C,Vancouver,1527,27,3.44
+Clothing,SKU0260,329.8,Stockout,118,44814.15,174,6,224,Supplier E,Vancouver,85,30,1.72
+Electronics,SKU0261,92.83,In Stock,745,42375.0,108,26,488,Supplier E,Toronto,1758,49,2.55
+Pharmaceuticals,SKU0262,274.79,Stockout,287,15825.84,182,8,396,Supplier D,Vancouver,1493,10,3.26
+Furniture,SKU0263,492.41,In Stock,77,13884.24,191,4,286,Supplier A,Vancouver,1095,10,2.6
+Clothing,SKU0264,469.01,In Stock,78,49084.5,64,18,73,Supplier A,Montreal,255,48,0.69
+Electronics,SKU0265,26.37,Stockout,174,26410.53,848,28,355,Supplier E,New York,688,12,1.63
+Food,SKU0266,86.58,In Stock,498,45330.41,962,11,301,Supplier B,New York,897,28,4.03
+Furniture,SKU0267,70.21,Stockout,314,8277.66,473,5,499,Supplier D,Montreal,1429,26,4.32
+Clothing,SKU0268,364.36,In Stock,918,32176.66,782,15,494,Supplier D,Montreal,489,23,0.77
+Pharmaceuticals,SKU0269,409.8,In Stock,683,40512.02,99,28,254,Supplier E,Vancouver,778,41,4.77
+Electronics,SKU0270,110.69,In Stock,374,47375.02,543,18,479,Supplier E,Los Angeles,1169,22,1.71
+Clothing,SKU0271,255.4,In Stock,863,16933.27,863,2,71,Supplier B,Vancouver,990,35,3.35
+Pharmaceuticals,SKU0272,421.15,In Stock,830,36276.56,127,22,435,Supplier B,Montreal,213,41,3.78
+Clothing,SKU0273,367.74,In Stock,388,26986.77,451,11,341,Supplier A,New York,197,34,4.08
+Furniture,SKU0274,273.41,In Stock,352,3125.38,913,26,179,Supplier D,Vancouver,1603,46,4.73
+Furniture,SKU0275,297.22,In Stock,956,34530.99,368,25,454,Supplier D,Los Angeles,343,37,1.63
+Furniture,SKU0276,256.64,In Stock,908,34535.82,850,13,278,Supplier E,Vancouver,244,14,4.31
+Electronics,SKU0277,152.29,In Stock,563,46537.28,42,4,276,Supplier A,Toronto,712,41,0.75
+Furniture,SKU0278,284.69,In Stock,363,24915.89,883,22,63,Supplier D,Vancouver,529,16,3.55
+Pharmaceuticals,SKU0279,346.0,In Stock,425,11589.52,418,7,25,Supplier A,Montreal,1950,58,3.74
+Clothing,SKU0280,437.29,In Stock,118,2323.73,487,29,17,Supplier A,New York,172,34,3.42
+Food,SKU0281,319.96,Stockout,572,20840.55,77,11,113,Supplier E,New York,1473,31,1.34
+Pharmaceuticals,SKU0282,381.76,Stockout,771,15165.64,825,22,68,Supplier A,Montreal,748,43,4.38
+Pharmaceuticals,SKU0283,84.24,In Stock,506,38078.31,800,24,322,Supplier B,Toronto,1014,13,0.93
+Furniture,SKU0284,233.47,In Stock,350,17777.96,269,4,49,Supplier B,Montreal,1525,58,0.36
+Electronics,SKU0285,9.62,Stockout,951,47458.65,673,28,246,Supplier C,Vancouver,710,25,3.62
+Clothing,SKU0286,127.11,In Stock,392,48119.28,700,15,452,Supplier E,Montreal,1177,16,2.43
+Electronics,SKU0287,364.6,In Stock,542,31083.34,758,1,395,Supplier C,Montreal,1828,59,4.26
+Clothing,SKU0288,495.95,In Stock,309,46440.15,899,23,103,Supplier B,Toronto,1535,33,1.98
+Clothing,SKU0289,54.09,In Stock,148,38066.63,727,3,231,Supplier C,Vancouver,1816,37,0.92
+Electronics,SKU0290,203.74,In Stock,368,27388.3,314,14,213,Supplier E,Los Angeles,1791,47,4.2
+Pharmaceuticals,SKU0291,401.04,In Stock,845,9097.37,924,6,147,Supplier E,Los Angeles,759,57,2.79
+Clothing,SKU0292,106.0,Stockout,508,22984.04,850,18,309,Supplier A,New York,445,19,1.03
+Electronics,SKU0293,279.77,Stockout,394,28087.64,901,25,404,Supplier D,Montreal,961,6,3.63
+Clothing,SKU0294,367.87,In Stock,613,43211.68,888,1,216,Supplier A,New York,1410,56,2.6
+Food,SKU0295,309.91,In Stock,968,24118.54,992,6,345,Supplier E,Toronto,1054,43,3.06
+Pharmaceuticals,SKU0296,98.07,Stockout,289,44893.97,944,6,90,Supplier B,Los Angeles,1672,57,2.36
+Furniture,SKU0297,180.92,In Stock,646,33750.01,167,21,227,Supplier B,Montreal,1215,48,4.16
+Clothing,SKU0298,392.98,In Stock,492,6936.25,338,16,11,Supplier A,Toronto,366,58,4.16
+Food,SKU0299,279.34,In Stock,918,49749.57,192,29,187,Supplier E,Toronto,1784,22,3.58
+Furniture,SKU0300,7.59,Stockout,120,26408.91,452,5,405,Supplier B,Montreal,1631,7,0.62
+Furniture,SKU0301,381.69,In Stock,875,19653.73,282,17,380,Supplier E,Toronto,1873,11,4.21
+Clothing,SKU0302,22.48,Stockout,148,32989.78,335,10,355,Supplier B,Montreal,1600,47,3.39
+Electronics,SKU0303,374.14,Stockout,444,5533.78,389,28,288,Supplier E,Montreal,1629,22,3.52
+Clothing,SKU0304,105.23,In Stock,518,31863.28,999,21,155,Supplier C,Vancouver,1474,48,1.88
+Food,SKU0305,479.25,In Stock,282,24961.98,524,18,327,Supplier E,New York,730,42,4.41
+Furniture,SKU0306,187.13,In Stock,108,20393.04,239,7,233,Supplier E,Toronto,1383,41,3.65
+Clothing,SKU0307,166.83,In Stock,773,47655.7,831,3,378,Supplier A,Toronto,544,37,0.65
+Electronics,SKU0308,78.7,In Stock,859,26174.73,957,13,393,Supplier C,Vancouver,605,48,2.1
+Clothing,SKU0309,156.27,In Stock,113,11033.96,482,15,71,Supplier D,Vancouver,659,35,4.44
+Pharmaceuticals,SKU0310,438.94,In Stock,223,23002.28,658,20,303,Supplier A,Vancouver,1846,15,0.33
+Electronics,SKU0311,498.19,Stockout,770,45977.43,715,19,248,Supplier D,Los Angeles,158,8,4.81
+Food,SKU0312,187.31,In Stock,673,8887.16,591,3,204,Supplier B,Los Angeles,1868,22,3.43
+Furniture,SKU0313,227.06,In Stock,771,10776.46,890,4,175,Supplier D,Los Angeles,421,8,3.19
+Clothing,SKU0314,362.43,In Stock,796,750.18,554,5,460,Supplier E,Montreal,904,53,1.43
+Electronics,SKU0315,443.67,In Stock,174,808.08,457,1,231,Supplier D,Toronto,665,38,1.32
+Pharmaceuticals,SKU0316,298.56,In Stock,862,41486.64,88,4,70,Supplier A,New York,817,33,4.72
+Electronics,SKU0317,198.81,In Stock,529,36632.92,659,12,138,Supplier A,Montreal,1964,28,1.56
+Pharmaceuticals,SKU0318,209.25,In Stock,293,17816.55,94,28,487,Supplier D,Toronto,255,26,3.9
+Food,SKU0319,349.33,In Stock,526,34945.73,451,27,182,Supplier A,Toronto,896,6,2.03
+Furniture,SKU0320,6.59,In Stock,666,19820.78,427,24,489,Supplier A,Vancouver,92,48,0.78
+Food,SKU0321,311.7,In Stock,622,47649.55,150,10,165,Supplier D,Vancouver,914,10,0.15
+Clothing,SKU0322,180.97,In Stock,173,48355.93,513,23,414,Supplier C,Montreal,1318,46,2.77
+Electronics,SKU0323,398.13,Stockout,895,19700.41,375,25,387,Supplier C,Vancouver,1360,29,4.88
+Pharmaceuticals,SKU0324,51.03,In Stock,668,42725.67,21,21,119,Supplier B,Toronto,1428,59,1.91
+Pharmaceuticals,SKU0325,296.16,In Stock,73,38677.14,882,29,278,Supplier A,Vancouver,834,25,1.85
+Electronics,SKU0326,243.08,In Stock,100,15569.0,312,26,420,Supplier D,Los Angeles,525,59,1.79
+Electronics,SKU0327,322.95,In Stock,126,11678.79,996,20,365,Supplier A,Vancouver,132,20,2.65
+Clothing,SKU0328,37.1,In Stock,875,22965.91,839,24,400,Supplier E,Toronto,1183,35,2.26
+Food,SKU0329,292.09,In Stock,276,39089.31,518,25,287,Supplier A,Montreal,239,18,4.41
+Pharmaceuticals,SKU0330,282.93,In Stock,831,48012.37,205,13,83,Supplier A,New York,849,43,2.58
+Clothing,SKU0331,282.53,In Stock,694,38202.6,951,23,496,Supplier C,Vancouver,985,32,2.59
+Food,SKU0332,303.73,In Stock,568,42774.83,374,14,446,Supplier D,Toronto,1982,36,0.78
+Clothing,SKU0333,339.85,In Stock,149,30192.91,450,23,472,Supplier A,New York,300,32,4.92
+Pharmaceuticals,SKU0334,403.47,In Stock,255,41786.85,625,5,216,Supplier C,New York,1797,55,1.32
+Electronics,SKU0335,138.56,Stockout,670,39242.6,783,4,397,Supplier B,Los Angeles,340,59,0.46
+Electronics,SKU0336,413.4,In Stock,767,18911.58,594,14,489,Supplier C,New York,1718,53,3.35
+Food,SKU0337,251.64,In Stock,404,27644.32,178,10,288,Supplier C,Toronto,1274,13,3.02
+Furniture,SKU0338,43.14,In Stock,496,40257.18,209,17,384,Supplier C,Toronto,1870,49,2.13
+Food,SKU0339,33.98,In Stock,485,2398.23,499,10,335,Supplier A,Vancouver,375,26,2.17
+Furniture,SKU0340,170.45,In Stock,526,40423.16,463,26,481,Supplier A,Vancouver,1584,36,3.95
+Clothing,SKU0341,393.52,In Stock,986,8976.62,839,7,349,Supplier B,Vancouver,1482,9,1.06
+Clothing,SKU0342,355.3,In Stock,193,25782.71,123,16,366,Supplier E,New York,1680,27,4.12
+Pharmaceuticals,SKU0343,395.36,In Stock,29,40432.94,992,1,349,Supplier E,New York,1863,9,3.28
+Furniture,SKU0344,261.05,In Stock,946,12765.67,112,17,213,Supplier E,Los Angeles,886,46,2.15
+Pharmaceuticals,SKU0345,222.9,In Stock,567,12365.79,11,21,170,Supplier B,Vancouver,557,57,2.34
+Electronics,SKU0346,77.99,In Stock,533,20197.94,125,29,37,Supplier E,Montreal,780,36,1.36
+Furniture,SKU0347,167.46,In Stock,591,44742.68,564,9,401,Supplier E,Los Angeles,1674,14,3.79
+Food,SKU0348,219.84,In Stock,538,122.09,330,6,266,Supplier C,Montreal,121,43,2.61
+Electronics,SKU0349,48.86,Stockout,892,45079.02,900,19,174,Supplier A,New York,1320,19,1.67
+Electronics,SKU0350,114.2,In Stock,156,7774.97,282,13,72,Supplier A,Los Angeles,690,11,3.02
